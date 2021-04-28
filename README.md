@@ -7,6 +7,7 @@
 Hi, I'm yonori based in Gunma, Japan.<br />
 Working as full stack develoer and Project manager<br />
 Please hire me :)<br />
+<a href="https://resume.io/r/rX09Urae8">Curriculum vitae</a><br />
 </p>
 
 <br />
