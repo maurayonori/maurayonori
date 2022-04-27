@@ -4,6 +4,7 @@
 </a>
 
 <p align="left">
+TECMAH CEO 
 Hi, I'm yonori based in Gunma, Japan.<br />
 Working as full stack develoer and Project manager<br />
 Please hire me :)<br />
