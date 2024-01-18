@@ -4,7 +4,7 @@
 </a>
 
 <p align="left">
-Hi, I'm yonori based in Gunma, Japan.<br />
+Hi, I'm yonori based in Hokkaido, Japan.<br />
 Working as full stack develoer and Project manager<br />
 Please hire me :)<br />
 TECMAH CEO <br />
