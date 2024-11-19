@@ -93,7 +93,7 @@ I like Ruby / TypeScript and also have experienced with following tech stacks.<b
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/16dc73065dd3264d6cf49cb455821e23c8627757/icons/elixir/elixir-original.svg" alt="Elixir" width="40" height="40"></a><!-- Elixir -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/fc95b46563a680340bd279eb00bc9b4829b6a30a/icons/phoenix/phoenix-original.svg" alt="Phoenix" width="40" height="40"></a><!-- Phoenix -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a><!-- PHP -->
-<a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40"></a><!-- Laravel -->
+<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" width="40" height="40"></a><!-- Laravel -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"></a><!-- Firebase -->
 <a href="#" target="_blank"><img src="https://avatars.githubusercontent.com/u/23617963?s=200&v=4" alt="Svelte" width="40" height="40"></a><!-- Svelte -->
 <a href="#" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"></a><!-- Sass -->
